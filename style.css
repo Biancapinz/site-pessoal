@@ -2,11 +2,20 @@
     font-family:'Strarborn';
     src: url('Nova pasta/Starborn.ttf');
 }
-
 @font-face {
     font-family:'nicesugar' ;
-    src: url();
+    src: url('nice sugar/Nice\ Sugar.ttf');
 }
+@font-face {
+    font-family:'sockae' ;
+    src: url('sockace/Socake.ttf');
+}
+@font-face {
+    font-family:'starchoko' ;
+    src: url('strachoko/Star\ Choco.ttf');
+}
+
+
 
 
 img#coração{    
@@ -24,4 +33,9 @@ img#coração{
 h1{
     text-align: center;
     font-family: Strarborn;
+}
+
+h2{
+    font-family: starchoko;
+
 }
