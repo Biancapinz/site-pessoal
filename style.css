@@ -19,11 +19,14 @@
             justify-content: space-between;
             display: flex;
             list-style-type: none;
+            
         }
 
 
     
         body{
+            height: auto;
+            width: 100%;
             background-image: url(https://img.freepik.com/free-vector/weather-seamless-pattern-background-vector-cute-doodle-illustration-kids_53876-105731.jpg?w=2000);
         }
 
