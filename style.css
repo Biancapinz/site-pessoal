@@ -25,8 +25,6 @@
 
     
         body{
-            height: auto;
-            width: 100%;
             background-image: url(https://img.freepik.com/free-vector/weather-seamless-pattern-background-vector-cute-doodle-illustration-kids_53876-105731.jpg?w=2000);
         }
 
@@ -45,10 +43,46 @@ img#coração{
 h1{
     text-align: center;
     font-family: Strarborn;
-    color: pink;
+    color: #ffbfca;
 }
 
 h2{
     font-family: starchoko;
 
+}
+
+h3{
+    font-family: Strarborn;
+    color: #ffbfca;
+    justify-content: space-between;
+}
+
+
+.myButton {
+    margin-top: 100px;
+	background:linear-gradient(to bottom, #ffbfca; 5%, #ffbfca; 100%);
+	background-color:#ffbfca;
+	border-radius:15px;
+	border:1px solid #ffbfca;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:17px;
+	font-weight:bold;
+	padding:7px 25px;
+	text-decoration:none;
+}
+
+.myButton:hover {
+	background:linear-gradient(to bottom, #ef027d 5%, #ff5bb0 100%);
+	background-color:hsl(329, 58%, 64%);
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+footer{
+    
 }

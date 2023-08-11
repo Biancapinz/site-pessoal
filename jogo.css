@@ -3,16 +3,17 @@
     src: url('Nova pasta/Starborn.ttf');
 }
 
-h2{
-    font-family: 'nicesugar' ;
-}
 
 img{
 height: 200px;
 width: 300px;
 border-radius: 50px;
-display: inline-block;
+}
 
+div{
+   float: left;
+   margin-left: 10px;
+   margin-top: 20px;
 }
 
 h1{
